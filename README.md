@@ -10,6 +10,7 @@ The goal is to improve problem-solving, logic building, and consistency by solvi
 - ✅ **Day 1** – Completed 1-10 Questions
 - ✅ **Day 2** – Completed 11-20 Questions
 - ✅ **Day 3** - Completed 21-30 Questions
+- ✅ **Day 4** - Completed 31-40 Questions
 - ⏳ **Day 4–5** – Upcoming
 
 ---
@@ -46,6 +47,17 @@ The goal is to improve problem-solving, logic building, and consistency by solvi
 28. Create a function that converts a temperature from Celsius to Fahrenheit.
 29. Write a function that removes all falsy values (false, 0, "", null, undefined, NaN) from an array.
 30. Implement a program that prints numbers from 1 to 50, but for multiples of 3 print “Fizz”, for multiples of 5 print “Buzz”, and for multiples of both print “FizzBuzz”.
+31. Write a function that capitalizes the first letter of each word in a sentence.
+32. Create a function that sorts an array of numbers in ascending order without using .sort().
+33. Write a function that finds the longest word in a given sentence.
+34. Implement a function that accepts an array and a number and returns how many times the number appears in the array.
+35. Create a function that finds the largest even number in an array.
+36. Write a function that removes spaces from a string and replaces them with -.
+37. Implement a function that checks whether all elements in an array are unique.
+38. Create a function that returns the first N prime numbers.
+39. Write a function that takes a string and returns an object with each character’s count.
+40. Implement a function that merges two arrays into one sorted array.
+
 
 ---
 
