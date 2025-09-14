@@ -11,7 +11,9 @@ The goal is to improve problem-solving, logic building, and consistency by solvi
 - ✅ **Day 2** – Completed 11-20 Questions
 - ✅ **Day 3** - Completed 21-30 Questions
 - ✅ **Day 4** - Completed 31-40 Questions
-- ⏳ **Day 4–5** – Upcoming
+- ✅ **Day 5** - Completed 41-50 Questions
+
+**Challenge completed!!!**
 
 ---
 
@@ -57,6 +59,17 @@ The goal is to improve problem-solving, logic building, and consistency by solvi
 38. Create a function that returns the first N prime numbers.
 39. Write a function that takes a string and returns an object with each character’s count.
 40. Implement a function that merges two arrays into one sorted array.
+41. Write a function that returns the first non-repeating character in a string.
+42. Create a function that checks whether a given number is a perfect square.
+43. Write a function that removes all non-numeric values from an array.
+44. Implement a function that converts a number to its binary representation.
+45. Create a function that returns an array with numbers doubled (e.g., [1,2,3] → [2,4,6]).
+46. Write a function that finds the greatest common divisor (GCD) of two numbers.
+47. Implement a function that finds and returns the most frequent number in an array.
+48. Create a function that returns an object with the sum and average of an array of numbers.
+49. Write a function that rotates the elements of an array by K positions.
+50. Implement a function that returns true if a given year is a leap year, otherwise false.
+
 
 
 ---
